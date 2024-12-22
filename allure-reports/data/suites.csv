@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_group1","","Sun Dec 22 14:47:11 GMT+06:30 2024","passed","Sun Dec 22 14:47:11 GMT+06:30 2024","","group_test","",""
+"","0","test_group2","","Sun Dec 22 14:47:11 GMT+06:30 2024","passed","Sun Dec 22 14:47:11 GMT+06:30 2024","","group_test","",""
+"","0","test_group3","","Sun Dec 22 14:47:11 GMT+06:30 2024","passed","Sun Dec 22 14:47:11 GMT+06:30 2024","","group_test","",""
+"","0","test_skip","","Sun Dec 22 14:47:11 GMT+06:30 2024","skipped","Sun Dec 22 14:47:11 GMT+06:30 2024","","group_test","",""
